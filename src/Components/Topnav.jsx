@@ -182,7 +182,7 @@ export default function PrimarySearchAppBar() {
               onClick={handleProfileMenuOpen}
               color="inherit"
             >
-              <Link to='/'><AccountCircle /></Link> 
+              <Link to='/ipfitness'><AccountCircle /></Link> 
             </IconButton>
           </Box>
           <Box sx={{ display: { xs: 'flex', md: 'none' } }}>
