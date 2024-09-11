@@ -14,7 +14,7 @@ function App() {
     <div>
       <Router>
         <Routes>
-          <Route path='/' element={<Login />} />
+          <Route path='/ipfitness' element={<Login />} />
           <Route path='/*' element={<Notfound />} />
           <Route path='/dashboard' element={<Dashboard />} />
           <Route path='/new' element={<LoginNew />} />
