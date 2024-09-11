@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ipfitness/static/css/main.4739e3d4.css",
+    "main.js": "/ipfitness/static/js/main.4a35c8f5.js",
+    "static/js/453.46877901.chunk.js": "/ipfitness/static/js/453.46877901.chunk.js",
+    "static/media/gym.jpg": "/ipfitness/static/media/gym.7f2331a288c00f57781d.jpg",
+    "static/media/user.jpg": "/ipfitness/static/media/user.c93474e4c1b227c6d9c4.jpg",
+    "static/media/sports.jpg": "/ipfitness/static/media/sports.9ff02f74c57aca10c118.jpg",
+    "static/media/client-bg.jpg": "/ipfitness/static/media/client-bg.ce52ce7e2a2d5d6d680d.jpg",
+    "index.html": "/ipfitness/index.html",
+    "main.4739e3d4.css.map": "/ipfitness/static/css/main.4739e3d4.css.map",
+    "main.4a35c8f5.js.map": "/ipfitness/static/js/main.4a35c8f5.js.map",
+    "453.46877901.chunk.js.map": "/ipfitness/static/js/453.46877901.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4739e3d4.css",
+    "static/js/main.4a35c8f5.js"
+  ]
+}
